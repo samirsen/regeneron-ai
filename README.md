@@ -24,4 +24,4 @@ npm install react-dom --save
 npm run react-dev
 npm run server-dev
 ```
-Use 2 terminals to run above and go to http://localhost:8080/
+Use two terminals to run above and go to http://localhost:8080/
