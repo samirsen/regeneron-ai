@@ -18,3 +18,10 @@ npm install body-parser --save
 npm install react --save
 npm install react-dom --save
 ```
+
+## Run Locally
+```
+npm run react-dev
+npm run server-dev
+```
+Use 2 terminals to run above and go to http://localhost:8080/
