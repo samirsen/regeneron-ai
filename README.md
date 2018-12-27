@@ -2,12 +2,12 @@
 
 Webpage display of regeneron.ai features and services.
 
-# Collaborators
-Samir Sen
-Meera Srinivasan
-Fred Lu
+- Collaborators
 
-# Install Dependencies
+Samir Sen, Meera Srinivasan, Fred Lu
+
+- Install Dependencies
+
 npm install -g
 npm install nodemon -g 
 npm install
